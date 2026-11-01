@@ -1,0 +1,9 @@
+step,kept,dropped
+SEC filers with a patent-based technology position,3112,10664
+... reporting positive R&D in at least 4 fiscal years,1887,1225
+firms with an R&D stock in every year 2012-2024 (robustness pools),528,0
+public floats dropped as scale errors (50x the firm's median),264,0
+firm-years 2013-2024 with an R&D stock and spillover pools,15101,0
+... of firms with median sales of $10 million or more,10932,4169
+market-value firm-years after trimming 0.5% tails of ln Q,10056,102
+patent-equation firm-years 2013-2020,6278,0

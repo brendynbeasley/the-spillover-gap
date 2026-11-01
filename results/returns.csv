@@ -1,0 +1,4 @@
+source,median_Y_over_G,phi1_own_rd,phi2_spilltech,gamma3_spillsic_value,social_return,social_se,private_return,private_se,ratio,social_ci_low,social_ci_high,private_ci_low,private_ci_high
+"This study, 2013-2024",1.800194,0.046446,-0.076788,-0.030848,-0.054621,0.192184,0.111379,0.069569,-0.490410,-0.431301,0.322059,-0.024977,0.247735
+BSV symmetric case (section 6.5.2),2.480000,0.043000,0.191000,-0.083000,0.580000,,0.208000,,2.788462,,,,
+"Lucking, Bloom & Van Reenen 2019, 1985-2015",2.345000,0.015000,0.231000,-0.086000,0.577000,,0.136000,,4.242647,,,,

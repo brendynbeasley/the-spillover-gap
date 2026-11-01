@@ -1,0 +1,13 @@
+# Large raw downloads (about 6 GB), fetched by src/build_panel.py
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and system files
+*.key
+.env
+.DS_Store

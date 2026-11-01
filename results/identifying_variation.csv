@@ -1,0 +1,7 @@
+variable,total_sd,within_firm_sd,within_firm_net_of_year_sd
+ln_spilltech,1.090791,0.222280,0.131602
+ln_spillsic,2.523445,0.356378,0.323103
+ln_Q,0.603541,0.354702,0.342958
+ln_G,1.898506,0.439951,0.363342
+"corr(ln_spilltech, ln_spillsic), levels",0.455711,,
+"corr(ln_spilltech, ln_spillsic), within firm net of year",0.328189,,

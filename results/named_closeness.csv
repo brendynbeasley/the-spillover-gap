@@ -1,0 +1,7 @@
+firm_a,firm_b,sic_a,sic_b,SIC_now,TECH_now,SIC_bsv,TECH_bsv
+IBM,Apple,3570,3571,0.000,0.869,0.650,0.640
+IBM,Motorola Solutions,3570,3663,0.000,0.420,0.010,0.460
+IBM,Intel,3570,3674,0.000,0.941,0.010,0.760
+Apple,Motorola Solutions,3571,3663,0.000,0.721,0.020,0.170
+Apple,Intel,3571,3674,0.000,0.899,0.000,0.470
+Motorola Solutions,Intel,3663,3674,0.000,0.596,0.340,0.460

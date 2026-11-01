@@ -1,0 +1,8 @@
+statistic,value
+firms,1887.000000
+mean TECH over firm pairs,0.115884
+mean SIC over firm pairs,0.086191
+correlation of TECH and SIC over pairs,0.504750
+share of pairs with TECH > 0.5,0.097904
+share of same-SIC pairs with TECH < 0.1,0.131530
+share of all 10-K R&D in 2023 done by these firms,0.894694

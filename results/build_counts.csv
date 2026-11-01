@@ -1,0 +1,12 @@
+step,kept,dropped
+"SEC firm-years with total assets, fiscal 2010-2025",104380,21519
+Public-float facts matched to a 10-K in the FSDS,80517,36921
+KPSS patents filed 2000-2022 (of all years),2212524,1619384
+... with a permco,2212524,0
+permco-CIK links by exact name (>= 3 patents or 10%),3067,104
+permco-CIK links by leading words (>= 10 patents and 25%),167,260
+... links kept with at least half the matches of the permco's best filer,3204,30
+permco-CIK links added by hand (parents of patent-holding subsidiaries),4,0
+KPSS patents filed 2000-2022 attributed to an SEC filer,1507100,705424
+SEC filers with a technology position (CPC shares),3117,0
+CPC subclasses used in the technology positions,662,0
